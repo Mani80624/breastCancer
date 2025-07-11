@@ -1,4 +1,4 @@
-;patientID;patient No;DVD NO;Right Mammogram   ;Left Mammogram ; Right Ultrasound;Left Ultrasound
+date;patientID;patient No;DVD NO;Right Mammogram   ;Left Mammogram ; Right Ultrasound;Left Ultrasound
 25-abr-19;BC 007741;PTNT1;2;BIRAD 2;BIRAD 2;;
 24-abr-19;BC 005401;PTNT1;3;BIRAD 2;BIRAD 2;;
 24-abr-19;BC 0021806;PTNT3;3;BIRAD 2;BIRAD 2;;
