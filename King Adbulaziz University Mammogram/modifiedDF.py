@@ -41,6 +41,6 @@ def writerCSV(nameCSV,lista_rows):
         
 
 
-lista_duplicada = read_csv('/home/manuel/Descargas/Estudio de DB para cancer de mama/King Adbulaziz University Mammogram/BC with ultrasound.csv')
+lista_duplicada = read_csv('C:/Users/ma-nu/Downloads/breastCancer/King Adbulaziz University Mammogram/BC with ultrasound.csv')
 
-writerCSV('prueba1.csv', lista_duplicada)
+writerCSV('C:/Users/ma-nu/Downloads/breastCancer/King Adbulaziz University Mammogram/BC_abdulaziz_correct.csv', lista_duplicada)
